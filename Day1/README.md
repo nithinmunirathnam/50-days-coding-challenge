@@ -39,4 +39,4 @@ The dataset contains retail sales transaction data including:
  * The top 5 products account for a large share of the total revenue.
 
 ## Dashboard Preview
-![Excel Dashboard](dashboard.png)
+![Excel Dashboard](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/e34603d252c1fe9b5872dc21d574bc3aead9f26a/Day1/dashboard_screenshot.png.png)
