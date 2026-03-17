@@ -104,3 +104,6 @@
 * Developed a clean, interactive dashboard
 * Derived meaningful insights from student data
 * Demonstrated data analysis and visualization skills
+
+
+![Dashboard Preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/06790db921d5712284c95b2370c112b5535668b5/Day_2/Dashboard_image.png)
