@@ -104,3 +104,5 @@ The dataset includes the following attributes:
 ## ⭐ Conclusion
 
 This project highlights how nutrition and lifestyle choices influence children's growth and health. It demonstrates the importance of data-driven insights in public health decision-making.
+
+![Dashboard](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/b2814b8382475bb62a67eb633729331cdd55c9e0/Day3/Day3%20dashboard.png)
