@@ -30,9 +30,10 @@ Each folder may contain:
  * README explaining the analysis and insights
 
 ## Progress
-✔ Day 1 – Excel Data Analyst Challenge (Completed)
-✔ Day 2 – Excel Analysis & Visualization (Completed)
-⏳ Day 3 – Coming Soon
+✔ Day 1 – Excel Data Analyst Challenge (Completed)  
+✔ Day 2 – Excel Analysis & Visualization (Completed)  
+✔ Day 3 – Nutrition & Growth Analysis (Completed)  
+⏳ Day 4 – Coming Soon
 
 ## Goal
 By the end of this challenge, I aim to build a strong **data analyst portfolio demonstrating practical skills in Excel, Power BI, SQL, and Python**.
