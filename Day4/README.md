@@ -76,7 +76,4 @@ The dataset includes the following key fields:
 This project demonstrates how Excel can be effectively used to analyze financial data and build an interactive dashboard. It provides valuable insights into loan performance and supports better financial decision-making.
 
 ## 📷 Dashboard Preview
-
-
-
-Your Name
+![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/2830e61679ab80d835b9a83d57de24c313d89e2c/Day4/Day4.png)
