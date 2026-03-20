@@ -78,5 +78,4 @@ This project analyzes IT help desk ticket data to identify patterns in ticket vo
 
 This analysis highlights key operational challenges in IT support systems. Addressing recurring issues and improving resource allocation can significantly enhance efficiency and reduce ticket volume.
 
-##Dashboard 
 ![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/a4472bc7c8cf61a02d8bf024d5b96f359c1c5c50/Day5/Day5.png)
