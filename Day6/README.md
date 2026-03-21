@@ -100,10 +100,9 @@ The dataset contains banking-related information including:
 * Power BI
 * Power Query
 * DAX
-![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/96668f4f7d9969a0b3f25041f7a0b12cb16d0686/Day6/Day6.png)
 
-## 📌 Conclusion
+  ## 📌 Conclusion
 
 This dashboard provides a comprehensive view of customer behavior, financial activity, and loan risk, enabling better decision-making in the banking sector.
 
-
+![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/96668f4f7d9969a0b3f25041f7a0b12cb16d0686/Day6/Day6.png)
