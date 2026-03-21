@@ -31,11 +31,15 @@ Each folder may contain:
 
 ## Progress
 ✔ Day 1 – Excel Data Analyst Challenge (Completed)  
-✔ Day 2 – Excel Analysis & Visualization (Completed)  
+✔ Day 2 – Excel Analysis & Visualization (Completed) 
 ✔ Day 3 – Nutrition & Growth Analysis (Completed)
+
 ✔ Day 4 – Loan Portfolio Analysis Dashboard
+
 ✔ Day 5 – IT Help Desk Analysis Dashboard
+
 🔥Day 6 – Banking Customer & Transaction Analytics Dashboard
+
 ⏳Day 7 – Coming Soon
 
 ## Goal
