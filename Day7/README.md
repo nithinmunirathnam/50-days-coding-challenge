@@ -74,3 +74,6 @@ This project presents a **Quality Control Dashboard** built using Power BI to an
 
 This dashboard provides actionable insights into product quality and helps identify areas for process improvement, enabling better decision-making in manufacturing operations.
 
+![Dashboard preview](<img width="1917" height="676" alt="image" src="https://github.com/user-attachments/assets/f2247a1c-c089-40c2-9766-64ca22518482" />)
+
+
