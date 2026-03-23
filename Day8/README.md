@@ -58,3 +58,4 @@ The dataset includes:
 
 This dashboard helps identify inefficiencies in delivery operations and provides insights to improve on-time delivery and reduce costs.
 
+![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/be41a1ff63f670a91a4bdab1d18af6ea72dba39b/Day8/Day8.png)
