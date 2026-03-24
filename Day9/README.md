@@ -76,3 +76,6 @@ The dataset includes the following features:
 
 This project highlights how lifestyle habits, especially eating out, impact health. It emphasizes the importance of balanced diet, exercise, and proper sleep for maintaining good health.
 
+![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/f93e3e0e150809dbf371bd061d4ca4ecf5ce784a/Day9/Day9.png)
+
+
