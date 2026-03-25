@@ -75,6 +75,4 @@ Content type plays a major role in engagement, with video content performing the
 
 
 ## 📸 Dashboard Preview
-
-
-⭐ If you found this project useful, give it a star!
+![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/6962f36a9952f0c80bd711717cf786c0354e6f5c/Day10/Day10.png)
