@@ -79,3 +79,5 @@ The dataset contains insurance-related information such as:
 ## ⭐ Conclusion
 
 This dashboard provides a comprehensive analysis of insurance claims and fraud patterns, enabling data-driven decision-making and improved risk management strategies.
+
+![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/4974550b53f2ff173a15e270e19b477ffe64c7f6/Day11/Day11.png)
