@@ -1,4 +1,4 @@
-# 🛡️ Insurance Claims & Fraud Analysis Dashboard (Power BI)
+# 🛡️ Insurance Claims & Fraud Analysis Dashboard
 
 ## 📌 Project Overview
 
