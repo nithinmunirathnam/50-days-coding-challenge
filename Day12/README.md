@@ -1,4 +1,4 @@
-# 📊 MGNREGS Performance Analysis Dashboard (Power BI)
+# 📊 MGNREGS Performance Analysis Dashboard
 
 ## 📌 Project Overview
 
@@ -96,4 +96,6 @@ This project analyzes the performance of the Mahatma Gandhi National Rural Emplo
 ## 📢 Conclusion
 
 The analysis highlights significant gaps between demand and supply of employment under MGNREGS. While some states demonstrate efficient implementation, others require targeted policy interventions. The dashboard provides a scalable framework for analyzing real-world government data.
+
+![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/ea6318a8b536312c2bf6cedb9e17c236eaa2e39b/Day12/Day12.png)
 
