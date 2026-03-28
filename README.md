@@ -30,19 +30,33 @@ Each folder may contain:
  * README explaining the analysis and insights
 
 ## Progress
-✔ Day 1 – Excel Data Analyst Challenge (Completed)  
+✔ Day 1 – Excel Data Analyst Challenge
 
-✔ Day 2 – Excel Analysis & Visualization (Completed) 
+✔ Day 2 – Excel Analysis & Visualization
 
-✔ Day 3 – Nutrition & Growth Analysis (Completed)
+✔ Day 3 – Nutrition & Growth Analysis
 
-✔ Day 4 – Loan Portfolio Analysis Dashboard
+✔ Day 4 – Loan Portfolio Dashboard
 
-✔ Day 5 – IT Help Desk Analysis Dashboard
+✔ Day 5 – IT Help Desk Dashboard
 
-🔥Day 6 – Banking Customer & Transaction Analytics Dashboard
+✔ Day 6 – Banking Customer Analytics
 
-⏳Day 7 – Coming Soon
+✔ Day 7 – Quality Control Dashboard
+
+✔ Day 8 – Logistics & Supply Chain Dashboard
+
+✔ Day 9 – Eating Out vs Health Analysis
+
+✔ Day 10 – Instagram Engagement Dashboard
+
+✔ Day 11 – Insurance Fraud Analysis
+
+✔ Day 12 – MGNREGS Performance Dashboard
+
+✔ Day 13 – Stress Level Analysis
+
+⏳ Day 14 – Coming Soon...
 
 ## Goal
 By the end of this challenge, I aim to build a strong **data analyst portfolio demonstrating practical skills in Excel, Power BI, SQL, and Python**.
