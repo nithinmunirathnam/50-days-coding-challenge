@@ -48,3 +48,5 @@ This project presents a Power BI dashboard that analyzes employee stress levels 
 
 ## 🚀 Conclusion
 The dashboard provides clear insights into how work patterns and lifestyle factors affect employee stress. These insights can help organizations take proactive steps to improve employee health and efficiency.
+
+![Dashboard preview](https://github.com/nithinmunirathnam/50-days-coding-challenge/blob/d0e046a6628e006610b67ee43d9db4f112c4f8dd/Day13/Day13.png)
