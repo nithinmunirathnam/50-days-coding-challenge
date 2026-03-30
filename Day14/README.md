@@ -1,26 +1,40 @@
-📊 SQL Sales Analysis
-📌 Overview
+# 📊 SQL Sales Analysis Project
 
-This project demonstrates basic SQL queries to analyze sales data, including filtering, sorting, and extracting insights.
+## 📌 Overview
 
-🗂️ Dataset
+This project focuses on analyzing a sales dataset using SQL. It includes basic queries for data retrieval, filtering, sorting, and exploration—helping build a strong foundation for data analysis.
 
-Contains sales details like customer name, city, product, category, quantity, price, and date.
+## 🗂️ Dataset Details
 
-🛠️ Key Operations
-Retrieve and select specific data
-Filter using WHERE
-Sort using ORDER BY
-Find unique values using DISTINCT
+The dataset contains:
 
-📈 Skills Gained
-SQL basics (SELECT, WHERE, ORDER BY)
-Data filtering and exploration
-Query writing for analysis
+* Sale ID
+* Customer Name
+* City
+* Product Name
+* Category
+* Quantity
+* Price
+* Sale Date
 
-🚀 Tools Used
-PostgreSQL 
+## 🛠️ Key SQL Queries
 
-💡 Conclusion
+* Retrieve all records
+* Filter data using WHERE (city, category, price, quantity)
+* Sort data using ORDER BY
+* Extract unique values using DISTINCT
 
-A beginner-friendly project to build strong SQL fundamentals for data analysis.
+## 📈 Skills Demonstrated
+
+* SQL Fundamentals (SELECT, WHERE, ORDER BY, DISTINCT)
+* Data Filtering & Exploration
+* Writing efficient queries
+
+## 🚀 Tools Used
+
+* SQL (PostgreSQL)
+
+## 💡 Conclusion
+
+This project is a beginner-friendly introduction to SQL for data analysis and helps in preparing for data analyst roles.
+
